@@ -1,97 +1,73 @@
 
+# BUDDY-MEMORY-ALLOCATION
+# Getting Started with Create React App
 
-````markdown
-# Buddy Memory Allocation
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Welcome to **Buddy Memory Allocation**! This interactive website visualizes the Buddy Memory Allocation algorithm, which is widely used in memory management in operating systems.
+## Available Scripts
 
-The website demonstrates memory allocation and deallocation using blocks and buddies, with animations and interactive features. The visual interface allows users to see how memory is split into smaller blocks, allocated, and freed in real-time. 
+In the project directory, you can run:
 
-This project showcases a blend of animation, algorithm visualization, and user interactivity to make understanding memory allocation more intuitive.
+### `npm start`
 
-## Live Demo
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Explore the live demo of the Buddy Memory Allocation System at the following link:
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-[Buddy Memory Allocation](https://buddy-memory-allocation.web.app/)
+### `npm test`
 
-## Features
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- **Memory Allocation Visualization:** See how memory is allocated with different block sizes.
-- **Interactive Simulation:** Allocate and deallocate memory using a visual interface. 
-- **Block Merging:** Watch as freed blocks merge with their buddies.
-- **Responsive Design:** Fully responsive interface for desktop and mobile devices.
-- **Sound Effects:** Enjoy sound effects when memory is allocated or freed.
+### `npm run build`
 
-## Getting Started
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-To run this project locally, follow these instructions:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Prerequisites
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Ensure you have **Node.js** installed on your machine. You can download it from [Node.js Official Site](https://nodejs.org/).
+### `npm run eject`
 
-### Installation
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tharun242005/BUDDY-MEMORY-ALLOCATION.git
-````
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-2. Navigate to the project directory:
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-   ```bash
-   cd buddy-memory-allocation
-   ```
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-3. Install the required dependencies:
+## Learn More
 
-   ```bash
-   npm install
-   ```
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-4. Start the development server:
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-   ```bash
-   npm start
-   ```
+### Code Splitting
 
-The app will run on [http://localhost:3000](http://localhost:3000).
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Available Scripts
+### Analyzing the Bundle Size
 
-In the project directory, you can run the following commands:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-#### `npm start`
+### Making a Progressive Web App
 
-Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-#### `npm test`
+### Advanced Configuration
 
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-#### `npm run build`
-
-Builds the app for production to the `build` folder. The build is minified and optimized for the best performance. Your app is ready to be deployed.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
-The app is hosted on Firebase and is accessible at:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-[Buddy Memory Allocation](https://buddy-memory-allocation.web.app/)
+### `npm run build` fails to minify
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests. If you have any improvements, bugs, or new feature ideas, don't hesitate to raise an issue or contribute to the project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-* [Create React App](https://github.com/facebook/create-react-app) for bootstrapping the project.
-* [Firebase Hosting](https://firebase.google.com/docs/hosting) for deployment.
-* [Buddy Memory Allocation](https://en.wikipedia.org/wiki/Buddy_memory_allocation) for algorithm inspiration.
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
