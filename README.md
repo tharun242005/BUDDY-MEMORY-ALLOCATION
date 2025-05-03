@@ -86,23 +86,35 @@ Builds the app for production to the build folder. The build is minified and opt
 
 In the project directory, you can run:# Buddy Memory Allocation
 
-Deployment
-The app is hosted on Firebase and is accessible at:
+## **Deployment**
 
-Buddy Memory Allocation
+The app is hosted on **[Firebase Hosting](https://firebase.google.com/docs/hosting)** and is accessible at:
 
-Contributing
-Feel free to fork this repository and submit pull requests. If you have any improvements, bugs, or new feature ideas, don't hesitate to raise an issue or contribute to the project.
+[**Buddy Memory Allocation**](https://buddy-memory-allocation.web.app/)
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+---
 
-Acknowledgments
-Create React App for bootstrapping the project.
+## **Contributing**
 
-Firebase Hosting for deployment.
+Feel free to **fork** this repository and submit **pull requests**. If you have any improvements, bugs, or new feature ideas, don't hesitate to:
 
-Buddy Memory Allocation for algorithm inspiration.
+- **Raise an issue**
+- **Contribute** to the project
+
+---
+
+## **License**
+
+This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## **Acknowledgments**
+
+- **[Create React App](https://github.com/facebook/create-react-app)** for bootstrapping the project.
+- **[Firebase Hosting](https://firebase.google.com/docs/hosting)** for deployment.
+- **[Buddy Memory Allocation](https://en.wikipedia.org/wiki/Buddy_memory_allocation)** for algorithm inspiration.
+
 
 ## Learn More
 
