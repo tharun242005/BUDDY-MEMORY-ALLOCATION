@@ -55,7 +55,7 @@ Ensure you have **Node.js** installed on your machine. You can download it from 
 1. Clone the repository:
 
    git clone https://github.com/tharun242005/BUDDY-MEMORY-ALLOCATION.git
-
+--
  
 2. Navigate to the project directory:
 
